@@ -2,6 +2,6 @@ package com.rsa;
 
 public class Test {
 	public void test() {
-		System.out.println("Hello india wow");
+		System.out.println("Hello india");
 	}
 }
